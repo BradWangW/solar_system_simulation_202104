@@ -10,4 +10,4 @@ Experiment 2 - the codes for the second experiment
 
 Simulation of Solar System - project report
 
-To do the experiments, simply run the latter two files
+To do the experiments, simply run the two experiment files
